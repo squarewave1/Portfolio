@@ -1,7 +1,7 @@
 // This program asks for the distance between points   // Validate the two coordinates of the points and
 // calculates the distance to display it. 
 
-// FELIX RIVERA RODRIGUEZ 52743
+// FELIX RIVERA RODRIGUEZ
 
 #include <iostream>
 #include <iomanip>    // For setprecision 
@@ -55,4 +55,5 @@ int main()
 	system("pause");
 
 	return 0;
+
 }

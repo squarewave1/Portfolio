@@ -1,5 +1,5 @@
 
-//FELIX RIVERA RODRIGUEZ 52743
+//FELIX RIVERA RODRIGUEZ 
 
 // This program calculates compounded interest earned
 
@@ -47,4 +47,5 @@ int main()
 	system("pause");
 
 	return 0;
+
 }

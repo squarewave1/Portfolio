@@ -1,5 +1,5 @@
 //Programa de tutoria de matematicas 
-//Felix Rivera Rodriguez 52743
+//Felix Rivera Rodriguez
 //math.cpp
 #include <iostream>
 #include <stdlib.h>
@@ -50,4 +50,5 @@ int main() {
 		cin >> result;
 	system("pause");
 	return 0;
+
 }

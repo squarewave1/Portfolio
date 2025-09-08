@@ -1,0 +1,10 @@
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\bin\Debug\Comboboxpictureex.exe.config
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\bin\Debug\Comboboxpictureex.exe
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\bin\Debug\Comboboxpictureex.pdb
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\obj\Debug\Comboboxpictureex.Form1.resources
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\obj\Debug\Comboboxpictureex.Properties.Resources.resources
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\obj\Debug\Comboboxpictureex.csproj.GenerateResource.cache
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\obj\Debug\Comboboxpictureex.csproj.CoreCompileInputs.cache
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\obj\Debug\Comboboxpictureex.exe
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\obj\Debug\Comboboxpictureex.pdb
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\Comboboxpictureex\Comboboxpictureex\obj\Debug\Comboboxpictureex.csprojAssemblyReference.cache

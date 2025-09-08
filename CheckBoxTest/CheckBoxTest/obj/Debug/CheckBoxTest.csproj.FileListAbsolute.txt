@@ -1,0 +1,11 @@
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\bin\Debug\CheckBoxTest.exe.config
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\bin\Debug\CheckBoxTest.exe
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\bin\Debug\CheckBoxTest.pdb
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\obj\Debug\CheckBoxTest.csproj.AssemblyReference.cache
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\obj\Debug\CheckBoxTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\obj\Debug\CheckBoxTest.Form1.resources
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\obj\Debug\CheckBoxTest.Properties.Resources.resources
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\obj\Debug\CheckBoxTest.csproj.GenerateResource.cache
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\obj\Debug\CheckBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\obj\Debug\CheckBoxTest.exe
+C:\Users\etern\Documents\Politecnica\DECIMO TRIMESTRE\CECS 3210-22 ADVANCE PROGRAMMING\CheckBoxTest\CheckBoxTest\obj\Debug\CheckBoxTest.pdb

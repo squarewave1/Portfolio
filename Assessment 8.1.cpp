@@ -1,7 +1,7 @@
 //El programa preguntara al usuario cuantas veces quiere ver la palabra hola impresa 
-//y luego la imprimirá el número de veces que el usuario indique. 
+//y luego la imprimirÃ¡ el nÃºmero de veces que el usuario indique. 
 // Felix Rivera Rodriguez
-//# 52743
+/
 
 
 #include "pch.h"
@@ -28,6 +28,7 @@ int main()
 return 0;
 
 }
+
 
 
 

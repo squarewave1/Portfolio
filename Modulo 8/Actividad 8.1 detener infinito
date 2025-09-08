@@ -1,0 +1,21 @@
+//El código siguiente crea un loop infinito.Como se puede utilizar un valor centinela para controlar la ejecución infinita :
+// Felix Rivera Rodriguez
+//# 52743
+
+#include "pch.h"
+#include <iostream>
+using namespace std;
+int main()
+{
+
+
+	int x = 1;
+	 
+	while (x >= 0)
+	{
+	cout << "Hola!";
+	x--;
+	}
+	
+	return 0;
+}
